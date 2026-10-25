@@ -1,1 +1,2 @@
 initialize application
+improve application header styling
